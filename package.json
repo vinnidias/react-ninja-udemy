@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinnidias/react-ninja-udemy/issues"
   },
-  "homepage": "https://github.com/vinnidias/react-ninja-udemy#readme"
+  "homepage": "https://github.com/vinnidias/react-ninja-udemy#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
 }
